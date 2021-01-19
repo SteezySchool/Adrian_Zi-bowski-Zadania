@@ -6,7 +6,5 @@ public class HowManyCharacters
         String CharactersAZ = sc.nextLine(); 
         int length = CharactersAZ.length();
         System.out.println("Tyle wyszło: " +length);              
-    }
-
-    
+    }    
 }
